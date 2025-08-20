@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
 
-## EXAMPLE 
+# EXAMPLE 
 
 Prepare two .txt files:
 
